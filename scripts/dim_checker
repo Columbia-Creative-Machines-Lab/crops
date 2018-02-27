@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for f in *.jpg; do 
+    g=`identify -format "%wx%h" "$f"`
+    if [ "$g" != "224x224" ]
+        then
+        echo Bad dim $f
+    fi
+done
+

@@ -1,0 +1,688 @@
+FP
+['./new_data/test/nonlesion/J_170913_153124-506.jpg']
+FN
+['./new_data/test/lesion/J_170911_140652.jpg4cropped598.6666666666666824.0.jpg', './new_data/test/lesion/J_170913_142648.jpg0cropped2317.33333333333351686.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170908_122933.jpg4cropped1201.3333333333333113.0.jpg', './new_data/test/lesion/J_170823_134351.jpg8cropped4485.0818.0.jpg', './new_data/test/lesion/J_170911_133734.jpg4cropped3205.66666666666652239.5.jpg', './new_data/test/lesion/J_170911_134648.jpg1cropped1711.6666666666667203.0.jpg', './new_data/test/lesion/J_170908_122023.jpg2cropped827.33333333333342582.0.jpg', './new_data/test/lesion/J_170911_144932.jpg4cropped2704.03385.0.jpg', './new_data/test/lesion/J_170830_150557.jpg7cropped4663.3333333333332086.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_150518-483.jpg']
+FN
+['./new_data/test/lesion/J_170830_135021.jpg2cropped2697.66666666666651835.5.jpg', './new_data/test/lesion/J_170927_142033.jpg1cropped3107.33333333333351630.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_134902.jpg3cropped0.01789.5.jpg', './new_data/test/lesion/J_170913_143211.jpg6cropped4321.666666666667887.5.jpg', './new_data/test/lesion/J_170911_152624.jpg3cropped4422.3333333333331958.5.jpg', './new_data/test/lesion/J_170828_144248.jpg20cropped5298.6666666666671176.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133808.jpg3cropped452.333333333333371331.0.jpg', './new_data/test/lesion/J_170913_152951.jpg7cropped950.3333333333334807.0.jpg', './new_data/test/lesion/J_170908_122055.jpg1cropped3898.03746.5.jpg', './new_data/test/lesion/J_170911_144711.jpg2cropped4235.3333333333333701.5.jpg', './new_data/test/lesion/J_170911_153721.jpg12cropped3324.33333333333351715.0.jpg', './new_data/test/lesion/J_170824_140610.jpg16cropped2504.3333333333335933.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_153549-475.jpg']
+FN
+['./new_data/test/lesion/J_170911_144321.jpg9cropped4183.6666666666673752.0.jpg', './new_data/test/lesion/J_170825_150311.jpg14cropped128.01273.0.jpg', './new_data/test/lesion/J_170927_142729.jpg8cropped3151.33333333333351742.5.jpg', './new_data/test/lesion/J_170830_154441.jpg1cropped1436.3333333333333352.0.jpg', './new_data/test/lesion/J_170908_114150.jpg9cropped941.6666666666666108.0.jpg', './new_data/test/lesion/J_170913_142648.jpg5cropped1781.66666666666671146.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170824_133638-476.jpg']
+FN
+['./new_data/test/lesion/J_170911_144932.jpg2cropped3348.33333333333352349.0.jpg', './new_data/test/lesion/J_170823_134351.jpg7cropped4693.3333333333331029.0.jpg', './new_data/test/lesion/J_170927_132152.jpg5cropped4523.6666666666671899.0.jpg', './new_data/test/lesion/J_170913_142423.jpg1cropped1123.33333333333332598.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131050.jpg8cropped3959.33333333333353708.5.jpg', './new_data/test/lesion/J_170828_144613.jpg22cropped764.33333333333341070.0.jpg', './new_data/test/lesion/J_170913_154430.jpg2cropped5500.666666666667149.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_141326-502.jpg']
+FN
+['./new_data/test/lesion/J_170913_142525.jpg9cropped995.6666666666666643.0.jpg', './new_data/test/lesion/J_170913_154437.jpg9cropped4444.3333333333331098.0.jpg', './new_data/test/lesion/J_170927_131547.jpg2cropped3351.33333333333351264.0.jpg', './new_data/test/lesion/J_170911_133251.jpg3cropped5613.3333333333331582.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131638-518.jpg']
+FN
+['./new_data/test/lesion/J_170911_141051.jpg0cropped3802.333333333333569.0.jpg', './new_data/test/lesion/J_170908_124947.jpg3cropped1325.66666666666671589.0.jpg', './new_data/test/lesion/J_170911_141823.jpg5cropped1159.33333333333331831.5.jpg', './new_data/test/lesion/J_170911_144418.jpg0cropped2444.3333333333335138.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131644.jpg0cropped5000.03110.5.jpg', './new_data/test/lesion/J_170830_141801.jpg11cropped4087.33333333333352197.0.jpg', './new_data/test/lesion/J_170824_133617.jpg2cropped4022.03733.0.jpg', './new_data/test/lesion/J_170908_122933.jpg11cropped3163.33333333333352300.0.jpg', './new_data/test/lesion/J_170911_133725.jpg1cropped3727.0258.0.jpg', './new_data/test/lesion/J_170908_123229.jpg3cropped5512.3333333333331181.5.jpg', './new_data/test/lesion/J_170911_152356.jpg1cropped2793.66666666666652771.0.jpg', './new_data/test/lesion/J_170911_152618.jpg4cropped1451.0133.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133608.jpg4cropped4972.01115.0.jpg', './new_data/test/lesion/J_170825_150311.jpg16cropped131.0389.5.jpg', './new_data/test/lesion/J_170825_150052.jpg2cropped1782.33333333333333059.0.jpg', './new_data/test/lesion/J_170830_151031.jpg13cropped1600.01236.5.jpg', './new_data/test/lesion/J_170911_144418.jpg2cropped3628.03745.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152356.jpg2cropped665.66666666666661419.0.jpg', './new_data/test/lesion/J_170830_153704.jpg5cropped866.66666666666662171.0.jpg', './new_data/test/lesion/J_170911_134904.jpg2cropped48.01865.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_154058.jpg0cropped282.02965.0.jpg', './new_data/test/lesion/J_170913_143118.jpg0cropped840.66666666666661964.5.jpg', './new_data/test/lesion/J_170927_133933.jpg0cropped1345.33333333333331547.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_141535-480.jpg']
+FN
+['./new_data/test/lesion/J_170927_131445.jpg0cropped376.33333333333337281.5.jpg', './new_data/test/lesion/J_170825_150309.jpg7cropped4334.01900.5.jpg', './new_data/test/lesion/J_170927_141316.jpg1cropped28.0974.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_132152.jpg9cropped4987.6666666666671391.5.jpg', './new_data/test/lesion/J_170911_144416.jpg5cropped3785.33333333333352655.5.jpg', './new_data/test/lesion/J_170830_154417.jpg15cropped5431.01636.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_135512.jpg6cropped540.3333333333334195.0.jpg', './new_data/test/lesion/J_170908_123349.jpg4cropped2549.03489.5.jpg', './new_data/test/lesion/J_170911_133734.jpg13cropped2955.0138.0.jpg', './new_data/test/lesion/J_170913_153103.jpg0cropped4845.01848.0.jpg', './new_data/test/lesion/J_170911_152136.jpg8cropped3478.33333333333351523.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_150510.jpg7cropped3559.33333333333351357.0.jpg', './new_data/test/lesion/J_170927_141505.jpg0cropped3934.03088.5.jpg', './new_data/test/lesion/J_170927_131445.jpg4cropped4789.666666666667656.5.jpg', './new_data/test/lesion/J_170825_145433.jpg0cropped3540.3333333333335365.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_132057-480.jpg']
+FN
+['./new_data/test/lesion/J_170911_133425.jpg3cropped2095.3333333333335113.0.jpg', './new_data/test/lesion/J_170830_154058.jpg7cropped4639.666666666667215.0.jpg', './new_data/test/lesion/J_170828_144936.jpg1cropped3671.66666666666651300.0.jpg', './new_data/test/lesion/J_170908_124934.jpg7cropped4951.02646.5.jpg', './new_data/test/lesion/J_170911_152416.jpg16cropped1423.33333333333332760.5.jpg', './new_data/test/lesion/J_170927_132335.jpg19cropped304.0697.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144924.jpg6cropped15.3333333333333432374.0.jpg', './new_data/test/lesion/J_170927_131547.jpg1cropped2618.33333333333351633.5.jpg', './new_data/test/lesion/J_170913_153615.jpg0cropped3593.66666666666653744.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170913_154430.jpg6cropped2104.6666666666665449.5.jpg', './new_data/test/lesion/J_170911_144648.jpg7cropped2532.6666666666665365.5.jpg', './new_data/test/lesion/J_170927_141108.jpg1cropped4954.3333333333332070.0.jpg', './new_data/test/lesion/J_170911_133410.jpg0cropped3873.0389.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134405.jpg9cropped1796.3333333333333118.0.jpg', './new_data/test/lesion/J_170911_133649.jpg11cropped3469.33333333333353419.5.jpg', './new_data/test/lesion/J_170911_133659.jpg0cropped4876.6666666666671908.5.jpg', './new_data/test/lesion/J_170911_153657.jpg1cropped505.6666666666666321.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_134902.jpg8cropped70.0331.5.jpg', './new_data/test/lesion/J_170911_133251.jpg5cropped5309.6666666666673756.5.jpg', './new_data/test/lesion/J_170823_134154.jpg0cropped4577.03496.0.jpg', './new_data/test/lesion/J_170913_153133.jpg13cropped497.03730.0.jpg', './new_data/test/lesion/J_170830_142836.jpg20cropped4821.3333333333333745.5.jpg', './new_data/test/lesion/J_170908_124934.jpg4cropped3076.66666666666652197.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170913_143118.jpg5cropped2832.0123.0.jpg', './new_data/test/lesion/J_170913_143150.jpg0cropped4002.66666666666653394.5.jpg', './new_data/test/lesion/J_170911_133255.jpg13cropped3891.6666666666665319.5.jpg', './new_data/test/lesion/J_170828_145151.jpg5cropped475.33333333333337186.0.jpg', './new_data/test/lesion/J_170911_134443.jpg0cropped4821.031.0.jpg', './new_data/test/lesion/J_170911_144055.jpg2cropped1468.33333333333332218.0.jpg', './new_data/test/lesion/J_170913_142423.jpg8cropped4397.666666666667381.5.jpg', './new_data/test/lesion/J_170927_142729.jpg9cropped4434.0594.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134648.jpg3cropped3096.0154.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_153124-503.jpg', './new_data/test/nonlesion/J_170913_153118-518.jpg', './new_data/test/nonlesion/J_170825_144924-475.jpg', './new_data/test/nonlesion/J_170911_133818-489.jpg']
+FN
+['./new_data/test/lesion/J_170828_143702.jpg4cropped4415.6666666666671382.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133649.jpg10cropped4369.3333333333333716.0.jpg', './new_data/test/lesion/J_170823_134505.jpg1cropped4694.6666666666672387.0.jpg', './new_data/test/lesion/J_170911_144926.jpg0cropped1901.66666666666672211.0.jpg', './new_data/test/lesion/J_170824_133336.jpg1cropped2906.66666666666651738.5.jpg', './new_data/test/lesion/J_170824_140037.jpg11cropped5.0863.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_142359.jpg1cropped1124.01022.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_155221.jpg0cropped5091.0410.5.jpg', './new_data/test/lesion/J_170830_153848.jpg9cropped4783.0420.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_130728-501.jpg']
+FN
+[]
+FP
+['./new_data/test/nonlesion/J_170927_131217-515.jpg']
+FN
+['./new_data/test/lesion/J_170927_131445.jpg5cropped5061.3333333333333176.5.jpg', './new_data/test/lesion/J_170927_132122.jpg1cropped1446.66666666666672348.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144618.jpg19cropped2920.66666666666652642.0.jpg', './new_data/test/lesion/J_170828_144745.jpg17cropped2782.01156.0.jpg', './new_data/test/lesion/J_170927_135512.jpg7cropped977.3333333333334154.0.jpg', './new_data/test/lesion/J_170908_115305.jpg12cropped4128.666666666667702.5.jpg', './new_data/test/lesion/J_170830_154518.jpg5cropped3696.33333333333352360.5.jpg', './new_data/test/lesion/J_170911_152643.jpg0cropped671.03598.5.jpg', './new_data/test/lesion/J_170911_145147.jpg0cropped1148.66666666666671282.5.jpg', './new_data/test/lesion/J_170911_134907.jpg1cropped2935.66666666666651003.5.jpg', './new_data/test/lesion/J_170927_142729.jpg10cropped2231.66666666666653201.0.jpg', './new_data/test/lesion/J_170911_141445.jpg0cropped0.03259.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_114954-479.jpg']
+FN
+['./new_data/test/lesion/J_170913_143046.jpg6cropped1172.01956.0.jpg', './new_data/test/lesion/J_170911_133047.jpg10cropped4376.3333333333332511.5.jpg', './new_data/test/lesion/J_170927_132335.jpg13cropped1821.66666666666673296.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144420.jpg9cropped4032.66666666666652638.0.jpg', './new_data/test/lesion/J_170824_135939.jpg1cropped4730.3333333333331639.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170823_134455.jpg0cropped3668.33333333333351840.5.jpg', './new_data/test/lesion/J_170927_134902.jpg2cropped0.01377.0.jpg', './new_data/test/lesion/J_170911_152416.jpg13cropped1631.03493.0.jpg', './new_data/test/lesion/J_170830_151423.jpg4cropped1702.0313.0.jpg', './new_data/test/lesion/J_170913_143046.jpg7cropped128.02695.0.jpg', './new_data/test/lesion/J_170913_142525.jpg8cropped1031.0869.5.jpg', './new_data/test/lesion/J_170911_144650.jpg12cropped3595.02167.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_153118-508.jpg']
+FN
+['./new_data/test/lesion/J_170824_140610.jpg3cropped5451.6666666666671972.0.jpg', './new_data/test/lesion/J_170911_144711.jpg0cropped1687.33333333333333157.0.jpg', './new_data/test/lesion/J_170911_140533.jpg2cropped1414.01558.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133325.jpg8cropped4729.666666666667165.0.jpg', './new_data/test/lesion/J_170828_144745.jpg14cropped5241.0154.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144420.jpg4cropped309.33333333333337445.0.jpg', './new_data/test/lesion/J_170823_134634.jpg0cropped3911.02285.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_142923-484.jpg']
+FN
+['./new_data/test/lesion/J_170911_144333.jpg1cropped400.333333333333372489.0.jpg', './new_data/test/lesion/J_170911_133849.jpg7cropped1035.6666666666667474.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_121519-521.jpg']
+FN
+['./new_data/test/lesion/J_170830_141633.jpg1cropped2977.6666666666665226.0.jpg', './new_data/test/lesion/J_170911_134818.jpg11cropped836.02674.5.jpg', './new_data/test/lesion/J_170927_142729.jpg11cropped1878.66666666666672925.5.jpg', './new_data/test/lesion/J_170927_142033.jpg2cropped2379.33333333333352331.5.jpg', './new_data/test/lesion/J_170830_142836.jpg16cropped3900.03399.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144321.jpg6cropped3057.66666666666652325.0.jpg', './new_data/test/lesion/J_170927_142729.jpg4cropped4397.02057.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_142632-492.jpg', './new_data/test/nonlesion/J_170927_132309-480.jpg']
+FN
+['./new_data/test/lesion/J_170830_154417.jpg4cropped518.33333333333342029.0.jpg', './new_data/test/lesion/J_170911_134342.jpg4cropped4754.6666666666671934.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_134902.jpg14cropped4684.0149.0.jpg', './new_data/test/lesion/J_170830_134902.jpg7cropped857.0112.0.jpg', './new_data/test/lesion/J_170830_150914.jpg22cropped1866.33333333333333616.5.jpg', './new_data/test/lesion/J_170825_145637.jpg3cropped3671.33333333333352404.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131638-523.jpg', './new_data/test/nonlesion/J_170828_144320-481.jpg']
+FN
+['./new_data/test/lesion/J_170830_153704.jpg3cropped5219.666666666667549.5.jpg', './new_data/test/lesion/J_170830_142836.jpg19cropped4786.6666666666673400.5.jpg', './new_data/test/lesion/J_170911_142535.jpg3cropped3347.33333333333353759.0.jpg', './new_data/test/lesion/J_170911_133255.jpg1cropped12.02257.5.jpg', './new_data/test/lesion/J_170927_142234.jpg2cropped3050.0839.5.jpg', './new_data/test/lesion/J_170830_153710.jpg0cropped550.33333333333342490.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_134251.jpg46cropped41.02996.5.jpg', './new_data/test/lesion/J_170828_144620.jpg5cropped2311.02515.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_134251.jpg52cropped406.66666666666663221.0.jpg', './new_data/test/lesion/J_170911_133255.jpg16cropped3695.01282.5.jpg', './new_data/test/lesion/J_170911_145124.jpg14cropped3925.03749.5.jpg', './new_data/test/lesion/J_170927_132152.jpg16cropped864.33333333333341075.5.jpg', './new_data/test/lesion/J_170823_134358.jpg0cropped3300.02742.0.jpg', './new_data/test/lesion/J_170830_150436.jpg0cropped954.66666666666662022.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131050.jpg7cropped4491.3333333333332174.0.jpg', './new_data/test/lesion/J_170911_144650.jpg6cropped78.33333333333334579.5.jpg', './new_data/test/lesion/J_170911_144055.jpg4cropped5290.0280.0.jpg', './new_data/test/lesion/J_170908_122945.jpg1cropped4880.01029.5.jpg', './new_data/test/lesion/J_170927_131445.jpg3cropped4861.01875.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144359.jpg3cropped2029.66666666666672103.5.jpg', './new_data/test/lesion/J_170927_142234.jpg1cropped4201.666666666667375.0.jpg', './new_data/test/lesion/J_170913_142423.jpg5cropped2681.66666666666651143.5.jpg', './new_data/test/lesion/J_170911_145143.jpg3cropped37.0875.5.jpg', './new_data/test/lesion/J_170913_154223.jpg3cropped315.02306.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_152034-476.jpg']
+FN
+['./new_data/test/lesion/J_170823_134154.jpg2cropped4125.6666666666672722.0.jpg', './new_data/test/lesion/J_170911_141453.jpg0cropped2030.66666666666673238.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_143444-518.jpg']
+FN
+['./new_data/test/lesion/J_170830_150924.jpg1cropped5675.02589.5.jpg', './new_data/test/lesion/J_170927_131549.jpg0cropped964.6666666666666208.5.jpg', './new_data/test/lesion/J_170911_153432.jpg2cropped5277.6666666666672039.5.jpg', './new_data/test/lesion/J_170913_143549.jpg1cropped4746.02595.5.jpg', './new_data/test/lesion/J_170913_143046.jpg11cropped662.66666666666662209.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170825_150309.jpg4cropped4622.01858.5.jpg', './new_data/test/lesion/J_170913_154457.jpg6cropped4370.02150.5.jpg', './new_data/test/lesion/J_170824_140946.jpg0cropped2616.02818.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_121519-506.jpg']
+FN
+['./new_data/test/lesion/J_170927_135406.jpg3cropped3033.6666666666665960.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_153704.jpg9cropped2256.026.0.jpg', './new_data/test/lesion/J_170828_144618.jpg0cropped2465.66666666666652486.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_153438.jpg3cropped653.66666666666662450.5.jpg', './new_data/test/lesion/J_170927_131644.jpg10cropped2168.0757.5.jpg', './new_data/test/lesion/J_170830_142836.jpg6cropped1872.33333333333333575.0.jpg', './new_data/test/lesion/J_170911_144924.jpg8cropped96.03420.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144613.jpg18cropped3286.33333333333353227.5.jpg', './new_data/test/lesion/J_170825_145858.jpg1cropped5517.0237.0.jpg', './new_data/test/lesion/J_170908_121907.jpg4cropped4483.33333333333359.0.jpg', './new_data/test/lesion/J_170825_145151.jpg18cropped41.01285.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170908_122429.jpg9cropped1006.66666666666662296.0.jpg', './new_data/test/lesion/J_170830_135429.jpg11cropped3200.33333333333352144.5.jpg', './new_data/test/lesion/J_170908_121820.jpg0cropped164.666666666666662581.0.jpg', './new_data/test/lesion/J_170911_142314.jpg9cropped3737.66666666666651180.5.jpg', './new_data/test/lesion/J_170830_135021.jpg8cropped4532.6666666666673753.5.jpg', './new_data/test/lesion/J_170911_144650.jpg14cropped121.666666666666661241.5.jpg', './new_data/test/lesion/J_170830_142432.jpg9cropped0.01717.5.jpg', './new_data/test/lesion/J_170927_130707.jpg0cropped4782.3333333333330.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144745.jpg10cropped4157.3333333333332745.0.jpg', './new_data/test/lesion/J_170911_133929.jpg9cropped392.33333333333337385.5.jpg', './new_data/test/lesion/J_170911_152624.jpg8cropped5041.02631.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170824_135702-517.jpg']
+FN
+['./new_data/test/lesion/J_170911_134405.jpg1cropped1389.66666666666672997.0.jpg', './new_data/test/lesion/J_170911_141823.jpg4cropped1924.01999.0.jpg', './new_data/test/lesion/J_170828_143702.jpg2cropped5083.01678.5.jpg', './new_data/test/lesion/J_170927_131017.jpg4cropped2721.66666666666651923.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144518.jpg12cropped0.01896.0.jpg', './new_data/test/lesion/J_170824_133617.jpg0cropped377.333333333333373031.0.jpg', './new_data/test/lesion/J_170824_133456.jpg7cropped4817.02640.0.jpg', './new_data/test/lesion/J_170830_154807.jpg0cropped1432.3333333333333723.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170913_143211.jpg4cropped3550.6666666666665192.0.jpg', './new_data/test/lesion/J_170927_142729.jpg6cropped2844.66666666666652441.5.jpg', './new_data/test/lesion/J_170927_132335.jpg2cropped2559.6666666666665138.0.jpg', './new_data/test/lesion/J_170824_140147.jpg24cropped4015.66666666666652830.5.jpg', './new_data/test/lesion/J_170830_134752.jpg0cropped666.66666666666661930.0.jpg', './new_data/test/lesion/J_170830_154238.jpg0cropped3303.046.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_151447-477.jpg']
+FN
+['./new_data/test/lesion/J_170830_142836.jpg21cropped4498.6666666666673749.0.jpg', './new_data/test/lesion/J_170911_134805.jpg0cropped1165.6666666666667234.0.jpg']
+FP
+[]
+FN
+[]
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134339.jpg9cropped879.33333333333343420.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170913_142432.jpg5cropped3715.66666666666652400.0.jpg', './new_data/test/lesion/J_170911_141453.jpg1cropped2437.66666666666653257.0.jpg', './new_data/test/lesion/J_170908_122933.jpg15cropped4913.666666666667186.0.jpg', './new_data/test/lesion/J_170911_140632.jpg16cropped1036.33333333333331657.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144333.jpg6cropped2740.66666666666652126.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152416.jpg5cropped5134.3333333333332759.0.jpg', './new_data/test/lesion/J_170911_134818.jpg8cropped4348.03334.0.jpg', './new_data/test/lesion/J_170908_122429.jpg1cropped805.333333333333498.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_130926.jpg0cropped2354.33333333333352791.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133529.jpg1cropped2197.0107.0.jpg', './new_data/test/lesion/J_170911_134907.jpg6cropped5584.333333333333825.0.jpg', './new_data/test/lesion/J_170913_142423.jpg4cropped2348.66666666666651384.5.jpg', './new_data/test/lesion/J_170927_132152.jpg13cropped1653.3333333333333977.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_142632-481.jpg']
+FN
+['./new_data/test/lesion/J_170911_144926.jpg12cropped1593.01069.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_143507-480.jpg', './new_data/test/nonlesion/J_170913_143507-491.jpg']
+FN
+['./new_data/test/lesion/J_170911_141058.jpg8cropped2229.66666666666652690.0.jpg', './new_data/test/lesion/J_170911_152720.jpg3cropped548.33333333333343698.5.jpg', './new_data/test/lesion/J_170828_144618.jpg4cropped1814.02567.5.jpg', './new_data/test/lesion/J_170911_152620.jpg5cropped2273.66666666666653759.5.jpg', './new_data/test/lesion/J_170825_150224.jpg4cropped5196.6666666666671652.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_134919-519.jpg']
+FN
+['./new_data/test/lesion/J_170908_124947.jpg2cropped601.33333333333341489.0.jpg', './new_data/test/lesion/J_170908_114150.jpg1cropped82.666666666666662373.5.jpg', './new_data/test/lesion/J_170830_134251.jpg34cropped4603.666666666667662.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_153714.jpg3cropped567.66666666666661466.5.jpg', './new_data/test/lesion/J_170911_133916.jpg2cropped152.03410.5.jpg', './new_data/test/lesion/J_170911_144650.jpg3cropped3934.33333333333351795.5.jpg', './new_data/test/lesion/J_170913_143430.jpg2cropped327.666666666666632284.0.jpg', './new_data/test/lesion/J_170913_153133.jpg11cropped5496.6666666666670.0.jpg', './new_data/test/lesion/J_170911_134818.jpg6cropped4227.6666666666671982.5.jpg', './new_data/test/lesion/J_170825_145648.jpg7cropped3767.0756.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_154331-492.jpg']
+FN
+['./new_data/test/lesion/J_170927_131017.jpg1cropped1610.66666666666673109.0.jpg', './new_data/test/lesion/J_170830_153955.jpg3cropped4505.02294.5.jpg', './new_data/test/lesion/J_170911_140632.jpg3cropped4964.3333333333331614.0.jpg', './new_data/test/lesion/J_170825_150224.jpg0cropped1374.333333333333349.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_143507-489.jpg']
+FN
+['./new_data/test/lesion/J_170830_154708.jpg8cropped5077.666666666667202.0.jpg', './new_data/test/lesion/J_170913_142140.jpg1cropped388.01929.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170825_145754-503.jpg']
+FN
+['./new_data/test/lesion/J_170927_142419.jpg0cropped155.333333333333342704.0.jpg', './new_data/test/lesion/J_170908_122158.jpg2cropped0.01418.5.jpg', './new_data/test/lesion/J_170927_132152.jpg7cropped5275.01707.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144055.jpg9cropped3825.33333333333352996.5.jpg', './new_data/test/lesion/J_170828_144554.jpg0cropped843.33333333333343736.0.jpg']
+FP
+[]
+FN
+[]
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144711.jpg3cropped948.33333333333343604.0.jpg', './new_data/test/lesion/J_170908_114150.jpg7cropped735.0512.0.jpg', './new_data/test/lesion/J_170911_142051.jpg1cropped105.666666666666661272.5.jpg', './new_data/test/lesion/J_170828_144248.jpg24cropped938.0371.0.jpg', './new_data/test/lesion/J_170908_123349.jpg2cropped1145.33333333333333748.5.jpg', './new_data/test/lesion/J_170911_134405.jpg4cropped3215.66666666666653710.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_140632.jpg17cropped727.33333333333341691.0.jpg', './new_data/test/lesion/J_170830_150557.jpg23cropped2863.33333333333351902.5.jpg', './new_data/test/lesion/J_170830_142719.jpg0cropped160.0128.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_142923-510.jpg', './new_data/test/nonlesion/J_170927_141535-509.jpg']
+FN
+['./new_data/test/lesion/J_170911_133701.jpg17cropped4737.6666666666671657.5.jpg', './new_data/test/lesion/J_170911_140516.jpg23cropped315.33333333333337844.5.jpg', './new_data/test/lesion/J_170908_122933.jpg12cropped2951.02500.5.jpg', './new_data/test/lesion/J_170828_144248.jpg2cropped544.6666666666666957.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133412.jpg0cropped3433.66666666666652697.0.jpg', './new_data/test/lesion/J_170830_134331.jpg0cropped154.01079.5.jpg', './new_data/test/lesion/J_170927_131050.jpg0cropped2707.66666666666651366.0.jpg', './new_data/test/lesion/J_170927_142729.jpg3cropped4596.03581.5.jpg', './new_data/test/lesion/J_170830_135337.jpg9cropped418.666666666666633143.0.jpg', './new_data/test/lesion/J_170927_131725.jpg1cropped71.33333333333334969.5.jpg', './new_data/test/lesion/J_170911_141058.jpg2cropped1252.66666666666672745.0.jpg', './new_data/test/lesion/J_170913_143539.jpg3cropped2600.0461.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_142040-498.jpg']
+FN
+['./new_data/test/lesion/J_170830_153848.jpg10cropped4840.333333333333205.0.jpg', './new_data/test/lesion/J_170911_133542.jpg6cropped4829.3333333333331548.5.jpg', './new_data/test/lesion/J_170911_145124.jpg8cropped2673.33333333333351305.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134112.jpg10cropped954.66666666666661676.5.jpg', './new_data/test/lesion/J_170825_150107.jpg0cropped1664.66666666666672210.0.jpg', './new_data/test/lesion/J_170911_140516.jpg10cropped2703.66666666666652771.0.jpg', './new_data/test/lesion/J_170911_144648.jpg0cropped2404.02934.0.jpg', './new_data/test/lesion/J_170911_133126.jpg3cropped4594.666666666667225.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170825_145754-497.jpg']
+FN
+['./new_data/test/lesion/J_170911_144407.jpg3cropped2690.3333333333335944.0.jpg', './new_data/test/lesion/J_170927_135330.jpg2cropped3658.33333333333352251.5.jpg', './new_data/test/lesion/J_170830_142836.jpg7cropped1805.03474.0.jpg', './new_data/test/lesion/J_170911_153721.jpg10cropped3338.01551.5.jpg', './new_data/test/lesion/J_170830_155436.jpg0cropped47.333333333333341240.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152620.jpg2cropped2362.33333333333352992.5.jpg', './new_data/test/lesion/J_170830_151031.jpg21cropped258.6666666666666313.5.jpg', './new_data/test/lesion/J_170830_153617.jpg3cropped302.33333333333337948.0.jpg', './new_data/test/lesion/J_170911_141823.jpg2cropped3860.0327.5.jpg', './new_data/test/lesion/J_170911_142314.jpg5cropped3335.66666666666652896.0.jpg', './new_data/test/lesion/J_170911_153419.jpg7cropped2342.66666666666653098.5.jpg', './new_data/test/lesion/J_170927_132239.jpg0cropped4909.6666666666671659.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_140618.jpg1cropped5088.666666666667282.0.jpg', './new_data/test/lesion/J_170911_141058.jpg4cropped4977.01513.5.jpg', './new_data/test/lesion/J_170928_144521.jpg1cropped3542.33333333333351537.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_122152-524.jpg']
+FN
+['./new_data/test/lesion/J_170828_144248.jpg16cropped1300.3333333333333806.0.jpg', './new_data/test/lesion/J_170913_143539.jpg2cropped1182.01656.0.jpg', './new_data/test/lesion/J_170913_142648.jpg2cropped891.03158.0.jpg', './new_data/test/lesion/J_170908_121716.jpg2cropped850.3333333333334322.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170908_114150.jpg14cropped3205.02608.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170928_144424-514.jpg']
+FN
+['./new_data/test/lesion/J_170830_154150.jpg2cropped2526.66666666666652599.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131445.jpg1cropped3538.01166.5.jpg', './new_data/test/lesion/J_170908_122314.jpg2cropped77.0828.5.jpg', './new_data/test/lesion/J_170824_133122.jpg11cropped3430.66666666666652492.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_153046-496.jpg']
+FN
+['./new_data/test/lesion/J_170911_145232.jpg1cropped3124.0133.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_151640.jpg5cropped1106.66666666666672292.5.jpg', './new_data/test/lesion/J_170927_132335.jpg12cropped2059.66666666666653343.0.jpg', './new_data/test/lesion/J_170927_132035.jpg0cropped0.01351.0.jpg', './new_data/test/lesion/J_170927_131725.jpg6cropped1923.0245.0.jpg', './new_data/test/lesion/J_170830_154949.jpg8cropped3841.6666666666665112.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_150510.jpg3cropped4366.6666666666673714.5.jpg', './new_data/test/lesion/J_170913_143046.jpg5cropped1317.02586.0.jpg', './new_data/test/lesion/J_170828_144620.jpg3cropped4119.02015.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144650.jpg16cropped3185.333333333333547.5.jpg', './new_data/test/lesion/J_170830_142836.jpg11cropped2574.33333333333351725.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_153959-514.jpg']
+FN
+['./new_data/test/lesion/J_170908_123317.jpg2cropped4728.66666666666761.5.jpg', './new_data/test/lesion/J_170927_132152.jpg8cropped4988.3333333333331633.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_153649.jpg15cropped3069.02213.0.jpg', './new_data/test/lesion/J_170911_144650.jpg15cropped3250.3333333333335420.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_153118-503.jpg']
+FN
+['./new_data/test/lesion/J_170830_150745.jpg5cropped4107.666666666667802.0.jpg', './new_data/test/lesion/J_170927_131644.jpg9cropped2244.3333333333335565.0.jpg', './new_data/test/lesion/J_170911_144403.jpg0cropped3428.6666666666665247.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_140516.jpg17cropped3985.666666666666539.5.jpg', './new_data/test/lesion/J_170830_134800.jpg0cropped2509.02227.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131638-502.jpg']
+FN
+[]
+FP
+['./new_data/test/nonlesion/J_170911_152703-518.jpg']
+FN
+['./new_data/test/lesion/J_170830_154949.jpg2cropped5323.085.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_123156-523.jpg', './new_data/test/nonlesion/J_170830_142908-493.jpg']
+FN
+['./new_data/test/lesion/J_170830_150914.jpg20cropped3070.3333333333335240.0.jpg', './new_data/test/lesion/J_170830_154807.jpg6cropped3137.33333333333352347.0.jpg', './new_data/test/lesion/J_170908_124947.jpg0cropped20.01838.5.jpg', './new_data/test/lesion/J_170823_134351.jpg9cropped4433.666666666667635.0.jpg', './new_data/test/lesion/J_170927_142729.jpg5cropped4227.01991.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_141843-496.jpg']
+FN
+['./new_data/test/lesion/J_170913_143352.jpg2cropped3220.66666666666651608.0.jpg', './new_data/test/lesion/J_170911_133425.jpg5cropped3107.33333333333353425.0.jpg', './new_data/test/lesion/J_170927_131644.jpg3cropped5579.3333333333333323.0.jpg', './new_data/test/lesion/J_170908_115305.jpg17cropped19.6666666666666571523.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133047.jpg12cropped4476.6666666666672223.0.jpg', './new_data/test/lesion/J_170911_144116.jpg9cropped2617.66666666666652004.5.jpg', './new_data/test/lesion/J_170911_133228.jpg2cropped925.333333333333432.0.jpg', './new_data/test/lesion/J_170908_124934.jpg6cropped1836.01705.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_134919-487.jpg']
+FN
+['./new_data/test/lesion/J_170927_132335.jpg18cropped372.0495.0.jpg', './new_data/test/lesion/J_170911_144554.jpg1cropped67.0912.0.jpg', './new_data/test/lesion/J_170830_151429.jpg0cropped2494.33333333333352085.5.jpg', './new_data/test/lesion/J_170928_144521.jpg2cropped3656.01577.5.jpg', './new_data/test/lesion/J_170911_152416.jpg19cropped4672.0230.5.jpg', './new_data/test/lesion/J_170911_133255.jpg17cropped3773.66666666666651196.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170824_140443-523.jpg', './new_data/test/nonlesion/J_170830_143307-511.jpg']
+FN
+['./new_data/test/lesion/J_170927_131050.jpg6cropped4897.333333333333854.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_134919-500.jpg', './new_data/test/nonlesion/J_170824_135702-512.jpg', './new_data/test/nonlesion/J_170911_141549-512.jpg', './new_data/test/nonlesion/J_170908_121519-498.jpg']
+FN
+['./new_data/test/lesion/J_170911_144648.jpg1cropped2109.66666666666652849.5.jpg', './new_data/test/lesion/J_170911_144359.jpg2cropped2432.3333333333335102.5.jpg', './new_data/test/lesion/J_170830_155412.jpg6cropped159.036.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170928_143527-492.jpg', './new_data/test/nonlesion/J_170908_114202-516.jpg', './new_data/test/nonlesion/J_170927_132340-492.jpg']
+FN
+['./new_data/test/lesion/J_170913_143352.jpg1cropped3020.66666666666651305.0.jpg', './new_data/test/lesion/J_170830_154949.jpg3cropped5716.666666666667996.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_144559-515.jpg']
+FN
+['./new_data/test/lesion/J_170913_142432.jpg8cropped535.03607.5.jpg', './new_data/test/lesion/J_170911_133531.jpg0cropped1027.3333333333333469.0.jpg', './new_data/test/lesion/J_170830_142132.jpg7cropped2524.0149.0.jpg', './new_data/test/lesion/J_170911_133255.jpg12cropped4204.333333333333864.5.jpg', './new_data/test/lesion/J_170830_150910.jpg1cropped1970.02439.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_134240.jpg0cropped136.333333333333342033.5.jpg', './new_data/test/lesion/J_170911_133701.jpg5cropped307.33333333333337807.5.jpg', './new_data/test/lesion/J_170927_135406.jpg2cropped3116.33333333333351026.0.jpg', './new_data/test/lesion/J_170911_152600.jpg7cropped2691.3333333333335881.0.jpg', './new_data/test/lesion/J_170911_133608.jpg5cropped3318.666666666666597.0.jpg', './new_data/test/lesion/J_170830_150557.jpg17cropped51.02356.5.jpg', './new_data/test/lesion/J_170908_121557.jpg5cropped2664.33333333333353383.5.jpg', './new_data/test/lesion/J_170824_133621.jpg13cropped0.02315.5.jpg', './new_data/test/lesion/J_170830_154214.jpg3cropped4608.00.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_151411-501.jpg']
+FN
+['./new_data/test/lesion/J_170913_143118.jpg3cropped3810.66666666666651801.0.jpg', './new_data/test/lesion/J_170825_145520.jpg13cropped5707.3333333333331365.5.jpg', './new_data/test/lesion/J_170911_133255.jpg2cropped2051.3333333333335285.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133047.jpg9cropped3579.03268.0.jpg', './new_data/test/lesion/J_170913_142423.jpg0cropped840.02504.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170824_140102-519.jpg']
+FN
+['./new_data/test/lesion/J_170824_140037.jpg14cropped455.33333333333337273.5.jpg', './new_data/test/lesion/J_170830_153704.jpg13cropped1154.66666666666671252.0.jpg', './new_data/test/lesion/J_170927_132035.jpg1cropped92.02954.5.jpg', './new_data/test/lesion/J_170824_140610.jpg10cropped1985.66666666666673498.0.jpg', './new_data/test/lesion/J_170911_134745.jpg0cropped3137.66666666666652323.0.jpg', './new_data/test/lesion/J_170908_124934.jpg5cropped584.66666666666661171.0.jpg', './new_data/test/lesion/J_170927_142729.jpg1cropped4255.3333333333333432.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_134752.jpg2cropped29.0314.5.jpg', './new_data/test/lesion/J_170830_153848.jpg1cropped3228.0236.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170913_142525.jpg3cropped373.666666666666632720.0.jpg', './new_data/test/lesion/J_170911_134818.jpg1cropped164.01538.0.jpg', './new_data/test/lesion/J_170830_154949.jpg5cropped3524.03667.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_141801.jpg14cropped5568.3333333333331076.5.jpg', './new_data/test/lesion/J_170830_154949.jpg4cropped5623.6666666666671309.0.jpg', './new_data/test/lesion/J_170908_123219.jpg0cropped4908.02197.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152628.jpg0cropped304.666666666666632720.5.jpg', './new_data/test/lesion/J_170825_145057.jpg6cropped1079.33333333333333245.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_143645-496.jpg']
+FN
+['./new_data/test/lesion/J_170830_134202.jpg8cropped528.01828.5.jpg', './new_data/test/lesion/J_170830_155502.jpg3cropped37.02692.5.jpg', './new_data/test/lesion/J_170825_150309.jpg21cropped3072.6666666666665200.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_155200-491.jpg']
+FN
+['./new_data/test/lesion/J_170908_122314.jpg5cropped0.0560.5.jpg', './new_data/test/lesion/J_170830_151003.jpg0cropped4547.02405.5.jpg', './new_data/test/lesion/J_170911_153228.jpg1cropped5265.0271.5.jpg', './new_data/test/lesion/J_170823_134615.jpg3cropped4286.03101.5.jpg', './new_data/test/lesion/J_170911_152529.jpg0cropped5485.0302.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_124715-513.jpg']
+FN
+['./new_data/test/lesion/J_170913_154347.jpg0cropped2603.02778.0.jpg', './new_data/test/lesion/J_170913_143226.jpg2cropped120.02225.0.jpg', './new_data/test/lesion/J_170830_135021.jpg6cropped2591.33333333333351092.5.jpg', './new_data/test/lesion/J_170824_140037.jpg10cropped1810.01715.5.jpg', './new_data/test/lesion/J_170911_145124.jpg15cropped4622.03517.0.jpg', './new_data/test/lesion/J_170911_144648.jpg5cropped88.333333333333343739.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131638-496.jpg', './new_data/test/nonlesion/J_170913_142208-515.jpg', './new_data/test/nonlesion/J_170911_133818-483.jpg']
+FN
+['./new_data/test/lesion/J_170927_142033.jpg3cropped2867.66666666666653036.0.jpg', './new_data/test/lesion/J_170830_142836.jpg12cropped2707.02195.5.jpg', './new_data/test/lesion/J_170911_140533.jpg9cropped1281.33333333333333168.0.jpg', './new_data/test/lesion/J_170911_133701.jpg10cropped3432.33333333333351949.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_134548-494.jpg']
+FN
+['./new_data/test/lesion/J_170911_141313.jpg9cropped2768.0215.0.jpg', './new_data/test/lesion/J_170927_135512.jpg4cropped1182.66666666666671155.5.jpg', './new_data/test/lesion/J_170830_134902.jpg6cropped1837.66666666666672227.0.jpg', './new_data/test/lesion/J_170825_150109.jpg3cropped1537.33333333333333139.0.jpg', './new_data/test/lesion/J_170830_135021.jpg7cropped2748.66666666666651182.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_135337.jpg8cropped31.0690.5.jpg', './new_data/test/lesion/J_170911_142042.jpg0cropped1688.01660.5.jpg', './new_data/test/lesion/J_170911_152720.jpg7cropped429.333333333333372057.0.jpg', './new_data/test/lesion/J_170927_134014.jpg0cropped1307.02246.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_154518.jpg0cropped2702.66666666666651476.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131017.jpg2cropped3571.33333333333352801.0.jpg', './new_data/test/lesion/J_170927_142729.jpg2cropped5207.03411.5.jpg', './new_data/test/lesion/J_170927_131725.jpg4cropped1194.6666666666667425.5.jpg', './new_data/test/lesion/J_170823_134505.jpg7cropped3497.02163.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_132309-503.jpg', './new_data/test/nonlesion/J_170911_144559-519.jpg', './new_data/test/nonlesion/J_170828_144320-505.jpg', './new_data/test/nonlesion/J_170830_141718-520.jpg']
+FN
+['./new_data/test/lesion/J_170911_133701.jpg8cropped2853.33333333333352601.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131217-522.jpg']
+FN
+[]
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131445.jpg6cropped4878.03179.0.jpg', './new_data/test/lesion/J_170830_135224.jpg3cropped3585.66666666666651325.5.jpg', './new_data/test/lesion/J_170824_133621.jpg9cropped1144.02253.5.jpg', './new_data/test/lesion/J_170911_133825.jpg1cropped4829.0838.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_142208-520.jpg']
+FN
+['./new_data/test/lesion/J_170828_145221.jpg3cropped5642.3333333333330.0.jpg', './new_data/test/lesion/J_170927_132152.jpg10cropped3811.66666666666651161.0.jpg']
+FP
+[]
+FN
+[]
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133228.jpg0cropped1065.3333333333333422.0.jpg', './new_data/test/lesion/J_170824_140037.jpg7cropped235.02078.0.jpg', './new_data/test/lesion/J_170830_154055.jpg3cropped4134.0195.0.jpg', './new_data/test/lesion/J_170830_154708.jpg4cropped5064.3333333333333240.5.jpg', './new_data/test/lesion/J_170913_152951.jpg8cropped126.666666666666662663.5.jpg', './new_data/test/lesion/J_170911_152720.jpg2cropped1410.66666666666673757.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_142033.jpg4cropped4159.3333333333331866.5.jpg', './new_data/test/lesion/J_170911_153559.jpg2cropped3459.33333333333351957.5.jpg', './new_data/test/lesion/J_170911_152329.jpg0cropped3850.01917.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_141638.jpg1cropped76.0422.0.jpg', './new_data/test/lesion/J_170830_150914.jpg6cropped4964.02500.5.jpg', './new_data/test/lesion/J_170911_141051.jpg2cropped275.01536.0.jpg', './new_data/test/lesion/J_170927_142719.jpg7cropped4650.03617.0.jpg', './new_data/test/lesion/J_170911_152720.jpg10cropped3538.02981.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_121238-506.jpg']
+FN
+['./new_data/test/lesion/J_170830_151031.jpg16cropped1764.33333333333333198.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_150910.jpg4cropped0.03186.0.jpg', './new_data/test/lesion/J_170913_153000.jpg13cropped107.016.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152356.jpg0cropped2935.33333333333353180.5.jpg', './new_data/test/lesion/J_170913_142423.jpg2cropped2669.01983.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_152346.jpg0cropped2701.03608.5.jpg', './new_data/test/lesion/J_170830_154214.jpg2cropped3302.02325.5.jpg', './new_data/test/lesion/J_170927_135512.jpg2cropped3232.33333333333352520.0.jpg', './new_data/test/lesion/J_170911_134424.jpg0cropped919.3333333333334118.0.jpg', './new_data/test/lesion/J_170911_142331.jpg1cropped1356.03280.0.jpg', './new_data/test/lesion/J_170830_142118.jpg2cropped3136.33333333333351360.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_141535-501.jpg']
+FN
+['./new_data/test/lesion/J_170911_134339.jpg1cropped5079.666666666667138.0.jpg', './new_data/test/lesion/J_170911_144116.jpg8cropped3034.02378.0.jpg', './new_data/test/lesion/J_170913_143437.jpg7cropped1564.33333333333332605.5.jpg', './new_data/test/lesion/J_170927_132335.jpg21cropped1039.33333333333333226.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170828_144639-481.jpg']
+FN
+['./new_data/test/lesion/J_170911_134339.jpg4cropped98.666666666666661949.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_145108.jpg0cropped1854.66666666666672190.5.jpg', './new_data/test/lesion/J_170825_150532.jpg0cropped3846.333333333333577.0.jpg', './new_data/test/lesion/J_170825_150309.jpg22cropped0.02804.0.jpg', './new_data/test/lesion/J_170911_133255.jpg8cropped4331.3333333333332105.0.jpg', './new_data/test/lesion/J_170911_153649.jpg12cropped2179.33333333333353748.0.jpg', './new_data/test/lesion/J_170911_133719.jpg3cropped3335.66666666666652271.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_133818-508.jpg']
+FN
+['./new_data/test/lesion/J_170927_132152.jpg1cropped0.01674.5.jpg', './new_data/test/lesion/J_170927_131644.jpg4cropped2128.6666666666665111.5.jpg', './new_data/test/lesion/J_170911_133849.jpg8cropped5533.01191.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_140533.jpg8cropped1247.66666666666673320.5.jpg', './new_data/test/lesion/J_170908_115305.jpg16cropped1769.3333333333333287.5.jpg', './new_data/test/lesion/J_170823_134154.jpg1cropped4101.3333333333333226.0.jpg', './new_data/test/lesion/J_170828_144248.jpg19cropped5204.6666666666671356.0.jpg', './new_data/test/lesion/J_170830_154522.jpg8cropped637.6666666666666690.0.jpg', './new_data/test/lesion/J_170911_133910.jpg7cropped2225.66666666666653450.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144618.jpg6cropped2879.66666666666653741.5.jpg', './new_data/test/lesion/J_170927_141123.jpg1cropped4886.02058.0.jpg', './new_data/test/lesion/J_170911_152136.jpg3cropped133.0616.0.jpg', './new_data/test/lesion/J_170911_152618.jpg0cropped3325.66666666666651933.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_135021.jpg9cropped4761.6666666666673750.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134907.jpg9cropped1988.66666666666672021.5.jpg', './new_data/test/lesion/J_170828_144613.jpg16cropped4890.6666666666673477.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_134152.jpg2cropped3624.043.0.jpg', './new_data/test/lesion/J_170911_152643.jpg1cropped665.03536.0.jpg', './new_data/test/lesion/J_170911_144926.jpg2cropped4091.6666666666665108.5.jpg', './new_data/test/lesion/J_170911_144924.jpg4cropped346.01020.5.jpg', './new_data/test/lesion/J_170911_134446.jpg3cropped2026.33333333333333675.0.jpg', './new_data/test/lesion/J_170913_142423.jpg9cropped4494.333333333333506.5.jpg', './new_data/test/lesion/J_170825_150224.jpg5cropped3947.66666666666651762.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170824_140413.jpg1cropped3261.3333333333335502.0.jpg', './new_data/test/lesion/J_170911_153721.jpg8cropped753.66666666666661797.0.jpg', './new_data/test/lesion/J_170911_144650.jpg2cropped4671.3333333333331853.5.jpg', './new_data/test/lesion/J_170913_143150.jpg2cropped321.6666666666666316.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_142111-492.jpg']
+FN
+['./new_data/test/lesion/J_170908_124947.jpg1cropped159.02057.0.jpg', './new_data/test/lesion/J_170911_144554.jpg2cropped1945.6666666666667515.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170908_122023.jpg5cropped963.03760.0.jpg', './new_data/test/lesion/J_170830_154102.jpg5cropped99.01211.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133115.jpg5cropped3308.33333333333352047.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_154949.jpg9cropped4263.333333333333128.0.jpg', './new_data/test/lesion/J_170911_144321.jpg2cropped1349.6666666666667231.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_132340-516.jpg']
+FN
+['./new_data/test/lesion/J_170911_144648.jpg6cropped1144.6666666666667665.5.jpg', './new_data/test/lesion/J_170908_123056.jpg7cropped1914.6666666666667377.5.jpg', './new_data/test/lesion/J_170911_153727.jpg3cropped196.666666666666663735.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_155448.jpg4cropped2868.3333333333335560.0.jpg', './new_data/test/lesion/J_170830_134251.jpg33cropped4533.3333333333333066.0.jpg', './new_data/test/lesion/J_170830_154441.jpg2cropped1355.6666666666667438.5.jpg', './new_data/test/lesion/J_170911_133914.jpg0cropped1515.3333333333333619.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131217-477.jpg']
+FN
+['./new_data/test/lesion/J_170828_144613.jpg19cropped3422.33333333333353517.5.jpg', './new_data/test/lesion/J_170913_143118.jpg1cropped304.333333333333372704.0.jpg', './new_data/test/lesion/J_170927_131445.jpg2cropped4135.01084.5.jpg', './new_data/test/lesion/J_170830_150731.jpg0cropped4444.3333333333331028.5.jpg', './new_data/test/lesion/J_170824_140147.jpg30cropped2051.66666666666651864.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170908_122644.jpg2cropped2338.66666666666652205.5.jpg', './new_data/test/lesion/J_170830_134858.jpg11cropped5646.666666666667579.5.jpg', './new_data/test/lesion/J_170911_142331.jpg2cropped2174.3333333333335141.0.jpg', './new_data/test/lesion/J_170911_153412.jpg1cropped373.0208.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170825_150311.jpg15cropped149.0147.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170913_143507-490.jpg']
+FN
+['./new_data/test/lesion/J_170908_122933.jpg16cropped4637.075.0.jpg', './new_data/test/lesion/J_170927_141108.jpg0cropped5226.3333333333332095.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170828_144248.jpg21cropped5074.0404.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_144359.jpg0cropped3618.33333333333353056.0.jpg', './new_data/test/lesion/J_170830_141822.jpg1cropped3664.33333333333351203.0.jpg', './new_data/test/lesion/J_170830_154058.jpg5cropped2854.03311.0.jpg', './new_data/test/lesion/J_170828_144248.jpg14cropped933.6666666666666192.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170927_131644.jpg6cropped4000.072.0.jpg', './new_data/test/lesion/J_170908_124509.jpg3cropped4527.02414.5.jpg', './new_data/test/lesion/J_170927_130813.jpg0cropped1486.33333333333331495.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_133436-506.jpg', './new_data/test/nonlesion/J_170928_144424-489.jpg']
+FN
+['./new_data/test/lesion/J_170828_144613.jpg17cropped3372.66666666666652902.0.jpg', './new_data/test/lesion/J_170911_145623.jpg0cropped797.02926.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_123046-482.jpg']
+FN
+['./new_data/test/lesion/J_170830_154807.jpg2cropped722.33333333333342253.0.jpg', './new_data/test/lesion/J_170824_133536.jpg5cropped2767.03118.0.jpg', './new_data/test/lesion/J_170908_122429.jpg8cropped24.3333333333333431334.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170830_153959-508.jpg']
+FN
+['./new_data/test/lesion/J_170913_154215.jpg1cropped112.01814.5.jpg', './new_data/test/lesion/J_170911_144407.jpg0cropped1440.33333333333331030.0.jpg', './new_data/test/lesion/J_170823_134505.jpg8cropped3430.33333333333352359.0.jpg', './new_data/test/lesion/J_170824_133827.jpg2cropped75.01944.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133910.jpg4cropped2632.33333333333351307.5.jpg', './new_data/test/lesion/J_170911_144407.jpg1cropped3263.33333333333353038.0.jpg', './new_data/test/lesion/J_170911_134405.jpg8cropped536.0221.0.jpg', './new_data/test/lesion/J_170830_150510.jpg8cropped2711.6666666666665280.0.jpg', './new_data/test/lesion/J_170830_141638.jpg4cropped4199.3333333333333524.5.jpg', './new_data/test/lesion/J_170911_133410.jpg2cropped2636.66666666666652910.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_133542.jpg19cropped1737.0128.0.jpg', './new_data/test/lesion/J_170911_133255.jpg10cropped4382.6666666666671294.0.jpg', './new_data/test/lesion/J_170913_142423.jpg12cropped2010.02240.5.jpg', './new_data/test/lesion/J_170830_154150.jpg3cropped2845.33333333333352509.5.jpg', './new_data/test/lesion/J_170911_140632.jpg11cropped2019.01669.0.jpg', './new_data/test/lesion/J_170927_130926.jpg2cropped3231.66666666666653750.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170908_121519-520.jpg']
+FN
+['./new_data/test/lesion/J_170828_143921.jpg4cropped77.0553.0.jpg', './new_data/test/lesion/J_170913_154423.jpg3cropped4122.3333333333333365.5.jpg', './new_data/test/lesion/J_170830_142200.jpg10cropped309.333333333333372733.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170824_140037.jpg8cropped1260.3333333333333923.0.jpg', './new_data/test/lesion/J_170911_142535.jpg5cropped5315.3333333333331032.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131727-516.jpg']
+FN
+['./new_data/test/lesion/J_170927_130748.jpg0cropped1074.33333333333333750.0.jpg', './new_data/test/lesion/J_170927_132122.jpg0cropped3557.66666666666651775.5.jpg', './new_data/test/lesion/J_170830_153710.jpg4cropped4977.333333333333123.0.jpg']
+FP
+['./new_data/test/nonlesion/J_170927_131638-486.jpg']
+FN
+['./new_data/test/lesion/J_170830_135335.jpg6cropped5726.6666666666673482.5.jpg', './new_data/test/lesion/J_170927_141202.jpg0cropped4668.6666666666673371.5.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_145457.jpg4cropped3714.33333333333351838.0.jpg', './new_data/test/lesion/J_170825_145136.jpg0cropped5122.6666666666672453.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170830_154015.jpg4cropped5270.3333333333333192.5.jpg', './new_data/test/lesion/J_170911_144420.jpg2cropped2322.6666666666665250.0.jpg', './new_data/test/lesion/J_170823_134154.jpg3cropped3161.6666666666665271.0.jpg']
+FP
+[]
+FN
+['./new_data/test/lesion/J_170911_140652.jpg1cropped567.01743.5.jpg']
+FP
+['./new_data/test/nonlesion/J_170911_141326-498.jpg']
+FN
+['./new_data/test/lesion/J_170911_152700.jpg0cropped0.02843.0.jpg']
